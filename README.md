@@ -19,4 +19,4 @@
 <li>CSS</li>
 </ol>
 <h3>Cheatsheet Sourced from</h3>
-<img alt = "Stanford Logo" height="150" width="150" src = "./stan.png">
+<img alt = "Stanford Logo" height="100" width="300" src = "./stan.png">
