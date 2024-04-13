@@ -1,11 +1,11 @@
 ![Status](https://img.shields.io/website-up-down-green-red/https/sigkddsession15april24.vercel.app/.svg)
-![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Webdev-session-15APR24.svg)
-![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/Webdev-session-15APR24.svg)
-![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/Webdev-session-15APR24.svg)
+![Forks](https://img.shields.io/github/forks/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Webdev-session-15APR24.svg)
+![Issues](https://img.shields.io/github/issues/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Webdev-session-15APR24.svg)
+![PR](https://img.shields.io/github/issues-pr/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Webdev-session-15APR24.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Webdev-session-15APR24.svg)
+![Views](https://views.whatilearened.today/views/github/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Webdev-session-15APR24.svg)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub repo size](https://img.shields.io/github/repo-size/ADITYAVOFFICIAL/Webdev-session-15APR24)
+![GitHub repo size](https://img.shields.io/github/repo-size/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Webdev-session-15APR24)
 
 <p align="center">
     <img alt = "Logo" height="150" width="150" src = "./logo.png">
