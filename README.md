@@ -13,8 +13,8 @@
 </p>
 <h1 align="center" >Web Dev Session 15 APRIL 2024 [UB507]</h1>
 <h3 align="center" >Learning materials for the session</h3>
-<p align="center">Used</p>
-<ol align="center" >
+<p>Used</p>
+<ol>
 <li>HTML5</li>
 <li>CSS</li>
 </ol>
