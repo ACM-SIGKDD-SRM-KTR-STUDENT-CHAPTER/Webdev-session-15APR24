@@ -17,6 +17,7 @@
 <ol>
 <li>HTML5</li>
 <li>CSS</li>
+<li>JavaScript</li>
 </ol>
 <hr>
 <h3>Cheatsheet Sourced from</h3>
