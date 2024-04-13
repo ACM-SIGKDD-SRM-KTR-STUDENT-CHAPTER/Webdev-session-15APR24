@@ -18,3 +18,5 @@
 <li>HTML5</li>
 <li>CSS</li>
 </ol>
+<h3>Cheatsheet Sourced from</h3>
+<img alt = "Stanford Logo" height="150" width="150" src = "./stan.png">
