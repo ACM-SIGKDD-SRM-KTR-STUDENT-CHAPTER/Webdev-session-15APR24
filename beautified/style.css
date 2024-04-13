@@ -46,6 +46,16 @@ body {
     margin-left: 20px;
 }
 
+.logo-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
 .nav-links li a {
     text-decoration: none;
     color: white;
