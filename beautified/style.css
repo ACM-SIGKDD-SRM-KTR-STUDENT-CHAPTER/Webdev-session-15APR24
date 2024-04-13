@@ -168,3 +168,30 @@ form input[type="reset"] {
     font-weight: bold;
     font-size: 20px;
 }
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+
+    .navbar {
+        padding: 10px;
+    }
+
+    .nav-links li {
+        display: block;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .content {
+        padding: 0 10px;
+    }
+
+    .main-image {
+        width: 100%;
+    }
+
+    form {
+        width: 95%;
+    }
+}
