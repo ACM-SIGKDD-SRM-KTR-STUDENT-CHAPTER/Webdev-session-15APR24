@@ -24,7 +24,7 @@ p {
     background-color: #57abd7;
 
 }
-article {
+ article {
     width: 100%;
   }
   
@@ -57,9 +57,9 @@ article {
     display :inline-block;
     background-image: url("srm.jpeg");
     background-size: cover;
-    position: relative;
+    /*position: relative;
 
-    top:50px;
+    top:50px;*/
 
 }
 
@@ -75,9 +75,8 @@ article {
     display :inline-block;
     background-image: url("dsbs.png");
     background-size: cover;
-    position: relative;
-    bottom: 50px;
-}
+    /*position: relative;
+    bottom: 50px;*/}
 
 
 .FB {
@@ -109,4 +108,4 @@ article {
     background-color: #9404ee;
     width:80px;
     height:50px;
-}
+} 
