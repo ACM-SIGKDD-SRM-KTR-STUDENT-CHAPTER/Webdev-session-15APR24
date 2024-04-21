@@ -8,7 +8,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Webdev-session-15APR24)
 
 <p align="center">
-    <img alt = "Logo" height="150" width="150" src = "./logo.png">
+    <img alt = "Logo" height="150" width="150" src = "./session-website/logo.png">
 
 </p>
 <h1 align="center" >Web Dev Session 15 APRIL 2024 [UB507]</h1>
